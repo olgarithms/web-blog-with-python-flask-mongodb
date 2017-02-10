@@ -1,3 +1,6 @@
 # web-blog-with-python-flask-mongodb
 A prototype of a web blog created with Python 3, Flask and MongoDB.
-I used to BootStrap to style the templates.
+
+BootStrap is used to style the templates.
+
+
